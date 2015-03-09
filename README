@@ -1,0 +1,8 @@
+Week assignment 4, by ArendE
+
+Assignment 1: spontal_filter.py
+Filters a Spontal XML file, by checking the automated generated frequencies if they are within range
+of the maximum and minimum frequency overall.
+
+Assignment 2: blood-die.py
+Finds the languages that have both the same words for blood and die
